@@ -27,9 +27,7 @@ pip install -r requirements.txt
 ## How to run
 
 ```bash
-python elaa_analysis.py
-python elaa_visual_analysis.py
-python elaa_figure_tables.py
+run in jupyter notebook
 ```
 
 - `elaa_analysis.py` and `elaa_figure_tables.py` print results to the terminal.
